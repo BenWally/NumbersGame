@@ -1,2 +1,2 @@
 # NumbersGame
-A simple numbers game
+A simple numbers game written in Python
